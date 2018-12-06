@@ -1,0 +1,15 @@
+enable : true
+heading : Acerca
+headingSpan : de nosotros
+aboutItem : 
+- icon : tf-tools
+  title : Somos creativos
+  content : La tecnología está al acceso de todos. Hoy la clave es seleccionar e integrar con creatividad.
+
+- icon : tf-strategy
+  title : Somos profesionales
+  content : Nuestros equipos cuentan con años diseñando y desarrollando productos y servicios de hardware y software con nivel internacional.
+
+- icon : tf-anchor2
+  title : Somos ágiles
+  content : De la idea al prototipo, del prototipo a la acción.

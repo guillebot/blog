@@ -1,0 +1,19 @@
+enable : true
+heading : Nuestras
+headingSpan : Áreas
+serviceItem :
+  - icon : tf-globe
+    title : Internet de las Cosas
+    content : Conectamos cosas. Llevamos tu necesidad a la práctica de la forma mas rápida y rentable.
+    
+  - icon : tf-ion-home
+    title : Domótica
+    content : Domótica razonable. Conectamos lo que existe, creamos lo que no existe. Plataforma abierta.
+    
+  - icon : tf-genius
+    title : Smart City
+    content : Evolucionamos ciudades. Seguridad, tráfico, transporte, iluminación, residuos urbanos, ambiente.
+    
+  - icon : tf-ion-ios-flower
+    title : Soluciones para el Agro
+    content : Riego inteligente. Ahorro en operaciones.
