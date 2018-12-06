@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "/"
 languageCode = "en-us"
 title = "E3 - IoT | Evolución 3 IoT"
 theme = "meghna-hugo"
