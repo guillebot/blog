@@ -6,14 +6,19 @@ serviceItem :
     title : Internet de las Cosas
     content : Conectamos cosas. Llevamos tu necesidad a la práctica de la forma mas rápida y rentable.
     
-  - icon : tf-ion-home
-    title : Domótica
-    content : Domótica razonable. Conectamos lo que existe, creamos lo que no existe. Plataforma abierta.
-    
   - icon : tf-genius
     title : Smart City
     content : Evolucionamos ciudades. Seguridad, tráfico, transporte, iluminación, residuos urbanos, ambiente.
-    
+
   - icon : tf-ion-ios-flower
     title : Soluciones para el Agro
     content : Riego inteligente. Ahorro en operaciones.
+
+  - icon : tf-compass
+    title : Trackeo de flotas y personas
+    content : Seguimiento de vehículos y personas con foco en la privacidad.
+
+  - icon : tf-ion-home
+    title : Domótica
+    content : Domótica razonable. Conectamos lo que existe, creamos lo que no existe. Plataforma abierta. Hacelo con nosotros o seguí nuestro Blog y hacelo vos mismo.
+    

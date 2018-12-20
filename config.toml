@@ -1,4 +1,4 @@
-baseURL = "guillebot.github.io"
+baseURL = "https://guillebot.github.io"
 languageCode = "en-us"
 title = "E3 - IoT | Evolución 3 IoT"
 theme = "meghna-hugo"
@@ -53,14 +53,14 @@ custom_css = ["css/custom.css"]
     bgImage = "images/slider/hero-area.jpg"
     icon = "tf-ion-play"
     heading = "Internet de las Cosas, todas las cosas."
-    content= "IoT, Smart City, Domótica, Agro. Recorré el camino con nosotros."
+    content= "IoT, Smart City, Domótica, Agro. Conectate con nosotros."
     btn = true
     btnText="Explorar"
     btnURL="#services"
 
     # call to action
     [params.cta]
-    enable = true
+    enable = false
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
     btnURL = "#"
@@ -71,22 +71,22 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
-        title = "Happy Clients"
+        title = "Consultas atendidas"
         icon = "tf-ion-android-happy"
-        count = "320"
+        count = "1320"
 
         [[params.counter.counterItem]]
-        title = "Projects completed"
+        title = "Proyectos completos"
         icon = "tf-ion-archive"
-        count = "565"
+        count = "21"
 
         [[params.counter.counterItem]]
-        title = "Positive feedback"
+        title = "Recomendaciones"
         icon = "tf-ion-thumbsup"
         count = "95"
 
         [[params.counter.counterItem]]
-        title = "Cups of Coffee"
+        title = "Cafés"
         icon = "tf-ion-coffee"
         count = "2500"
     
@@ -98,9 +98,11 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
+        url ="https://facebook.com/probando"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
+        url ="http://twitter.com/probando"
         
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-google-outline"

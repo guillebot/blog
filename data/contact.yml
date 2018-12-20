@@ -1,20 +1,17 @@
 enable : true
-heading : Get In
-headingSpan : Touch
-title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+heading : Contactate con 
+headingSpan : Nosotros
+title : Datos de contacto
+content : Cualquiera sea tu necesidad de IoT, esperamos tu contacto para acompañarte.
+mapLatitude : -58.4693352
+mapLongitude: -34.5340473
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "Av. del Libertador 101, Vicente López, Buenos Aires"
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
-    
-  - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+    info : "Phone: +54-9-11-68981570"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email: info@evolucion3.com"
     

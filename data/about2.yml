@@ -1,13 +1,13 @@
 enable : true
 image : images/about/about-business-man.jpg
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : Agregamos valor conectando cosas.
+description : Agregamos valor pensando en la solución final de nuestro cliente, ya sea este un hogar, una empresa o una entidad gubernamental.
+description2 : Los ayudamos a llegar a su objetivo de la forma mas rápida y económica.
 aboutItem : 
   - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Conectamos lo que existe
+    content : El mercado dispone de innumerables dispositivos. Los hacemos trabajar mejor, juntos.
     
   - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    title : Creamos lo que no existe
+    content : Por precio, prestaciones o características, algunos dispositivos o soluciones de software deben ser desarrollados. Nuestros laboratorios de electrónica y sistemas están ahí para hacerlo.

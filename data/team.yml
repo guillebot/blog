@@ -1,43 +1,22 @@
 enable : true
-heading : Our
-headingSpan : Team
+heading : Nuestro
+headingSpan : Equipo
 teamMember :
   - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+    name : Guillermo Schimmel
     designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Desde muy chico Guillermo conecta cosas y programa. Ya no es tan chico pero le sigue gustando conectar todo. También saca fotos y hace algunos malabares. Ingeniero electrónico de la prestigiosa Universidad Nacional del Sur y MBA de IAE Business School.
     socialIcon :
-      - icon : tf-ion-social-facebook
-      - icon : tf-ion-social-twitter
-      - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
-      
-  - image : images/team/team-2.jpg
-    name : Frank Miller
-    designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-      - icon : tf-ion-social-twitter
-      - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
-      
-  - image : images/team/team-3.jpg
-    name : Michael Jonson
-    designation : Web Developer
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
-    socialIcon :
-      - icon : tf-ion-social-facebook
-      - icon : tf-ion-social-twitter
-      - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
+      - icon : tf-ion-social-github
+        url : https://github.com/guillebot
+      - icon : tf-ion-social-linkedin 
+        url : https://www.linkedin.com/in/guillermo-schimmel-a076621/
       
   - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
-    designation : SEO Specialist
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    name : Estefanía Castillo
+    designation : Testing & Quality
+    description : Ingeniera Electrónica y Programadora, Estefanía prueba todo para encontrar los errores antes que vos.
     socialIcon :
       - icon : tf-ion-social-facebook
       - icon : tf-ion-social-twitter
       - icon : tf-ion-social-linkedin
-      - icon : tf-ion-social-dribbble-outline
