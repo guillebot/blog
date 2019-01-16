@@ -113,7 +113,7 @@ OpenHAB es increiblemente amplio y se va a desarrollar en un artículo posterior
 
 
 1.  Usar Arduino Nano programado via Arduino IDE
-2.  Conectarle sensor de temperatura (ejemplo)
+2.  Conectarle sensor de temperatura [Ejemplo](https://www.mysensors.org/build/temp)
 3.  Conectarle un módulo nRF24l01. Sirve cualquier módulo.
 4.  Utilizar la plataforma y library MySensors con sketch [Temperature](https://www.mysensors.org/build/temp)
 
